@@ -7,7 +7,7 @@ namespace AddressBook
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello User Choose From Below Options!");
+            Console.WriteLine("Hello User Choose From Below Options");
             Console.WriteLine("1.Add User");
             Console.WriteLine("2.Display All Users");
             string userOption = Console.ReadLine();
